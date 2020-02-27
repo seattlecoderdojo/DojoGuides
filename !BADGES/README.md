@@ -17,7 +17,11 @@ Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunt
 The design is exactly the same on both sides. In the large rounded rectangle on each side, write your name.
 
 The name tags have a grid of hexagons on each side that can be filled up with achievement badges. These are stickers that you earn for completing different tasks.
- 
+
+Each name tag can hold 24 badges. If you achieve more, you have to start another name tag.  
+
+
+
 ## The Achievement Badges
 
 <img src="../images/1stVisit.png" width="200" align="left">Everyone earns their "First Visit" badge just by coming. There's a "Second Visit" badge too. But then the next visit badge you can earn is the 4th, then the 7th. Just like in a game, the higher the level, the harder you have to work to earn the achievement.
