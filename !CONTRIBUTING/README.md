@@ -12,11 +12,11 @@ The DojoGuides define modules students can work on at a meetup of Seattle CoderD
 
 ## DO YOU WANT TO AWARD AN ACHIEVEMENT BADGE?
 
-See our [Badges](./!BADGES) guide for info on creating and awarding achievement badges.
+See our [Badges](../!BADGES) guide for info on creating and awarding achievement badges.
 
 ## BEFORE YOU GET STARTED
 
-Please make sure your module isn't duplicating content we already have. If it's similar to one we already have, does it put enough of a new and interesting twist on the skills or topic.
+Please make sure your module isn't duplicating content we already have. If it's similar to one we already have, does it put enough of a new and interesting twist on the skills or topic?
 
 If you want to have a higher likelihood of your module being published in this repo, open an issue and describe what you're trying to make. Our more experienced volunteers will review it and give you feedback so you can start on the right track.
 
@@ -24,7 +24,9 @@ Read our module form. Knowing the information you'll need to provide not just in
 
 ## GOOD RULES OF THUMB
 
-Fun is important. This isn't school. No child is forced to complete a module. So try to figure out ways
+Fun is important. This isn't school. No child is forced to complete a module. So try to figure out ways to make it interesting and rewarding so they'll finish it because they really want to. 
+
+Remember, there are other volunteers to help you brainstorm if you get stuck. 
 
 ## WHAT YOU'LL NEED
 
