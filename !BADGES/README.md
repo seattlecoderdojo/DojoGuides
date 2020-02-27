@@ -9,7 +9,9 @@ Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunt
 <img src="../images/seeker.png" height="300" align="left">Select your appropriate tag.
 
 **CHILD:** Seeker (black)
+
 **VOLUNTEER**: Mentor (blue)
+
 **PARENT/ACCOMPANYING ADULT**: Guardian (green)
 
 The design is exactly the same on both sides. In the large rounded rectangle on each side, write your name.
