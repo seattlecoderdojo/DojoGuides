@@ -16,7 +16,9 @@ Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunt
 
 The design is exactly the same on both sides. In the large rounded rectangle on each side, write your name.
 
-The name tags have a grid of hexagons on each side that can be filled up with achievement badges. These are stickers that you earn for completing different tasks.
+The name tags have a grid of hexagons on each side that can be filled up with achievement badges. These are stickers that you earn for completing different tasks. 
+
+
 
 
 
