@@ -6,13 +6,13 @@ The DojoGuides define modules students can work on at a meetup of Seattle CoderD
 
 ## YOU CAN DO THIS!
 
-* **Your modules can be original, but do not have to be. **
+* **Your modules can be original, but do not have to be.**
 * **They may simply explain and add value to a tutorial on another site.**
 * **They may copy content from another site, but only if that content has an open source or Creative Commons license that allows copying/re-use.**
 
 ## DO YOU WANT TO AWARD AN ACHIEVEMENT BADGE?
 
-See our [Badges][./!BADGES] guide for info on creating and awarding achievement badges.
+See our [Badges](./!BADGES) guide for info on creating and awarding achievement badges.
 
 ## BEFORE YOU GET STARTED
 
@@ -29,6 +29,7 @@ Fun is important. This isn't school. No child is forced to complete a module. So
 ## WHAT YOU'LL NEED
 
 [Module Template](./Module_Template.md) - Use the module template as the basis for your module.
+
 [Entry Template](./EntryTemplate.md) - Every module requires a corresponding entry in the readme file for the folder it's in. 
 
 ## HOW TO SUBMIT A MODULE

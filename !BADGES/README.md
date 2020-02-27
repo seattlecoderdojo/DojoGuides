@@ -32,7 +32,7 @@ Each name tag can hold 24 badges. If you achieve more, you have to start another
 
 **There are also badges for contributing**, like creating modules, leading a room, and helping with IT (making sure the laptops and equipment we own are kept in good shape).
 
-### Do They Unlock Anything?
+### Do Achievements Unlock Anything?
 
 Your potential?
 
@@ -65,7 +65,7 @@ Please also note that someone has to design the badge, it must be approved, and 
 
 We currently print badges in runs of 1,000 stickers with allstickerprinting.com. The badge costs $29.99 and we have to pay the state approx $3 in use tax.
 
-You may donate $35 by PayPal ($33 + $2 for PayPal fees) directly to Seattle CoderDojo if you don't need a tax deduction. $39 by PayPal or \$37 by check to Urban Sparks if you do need a tax deduction.
+You may contribute $35 by PayPal ($33 + $2 for PayPal fees) directly to Seattle CoderDojo if you don't need a tax deduction. $39 by PayPal or \$37 by check to Urban Sparks if you do need a tax deduction.
 
 We appreciate Urban Sparks support of our mission, but they have to do paperwork and oversight to accept tax-deductible donations on our behalf, so there is a processing fee we have to add for donations meant to cover specific costs.
 
