@@ -2,7 +2,7 @@
 
 # Badges: What's up With That?
 
-Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunteer with a 4x6 inch name tag, a clear holder, and a lanyard. 
+Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunteer with a 4x6 inch name tag, a clear holder, and a lanyard.
 
 ## The Name Tags
 
@@ -16,11 +16,8 @@ Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunt
 
 The design is exactly the same on both sides. In the large rounded rectangle on each side, write your name.
 
-The name tags have a grid of hexagons on each side that can be filled up with achievement badges. These are stickers that you earn for completing different tasks.  
-
-  
-
-
+The name tags have a grid of hexagons on each side that can be filled up with achievement badges. These are stickers that you earn for completing different tasks.
+ 
 ## The Achievement Badges
 
 <img src="../images/1stVisit.png" width="200" align="left">Everyone earns their "First Visit" badge just by coming. There's a "Second Visit" badge too. But then the next visit badge you can earn is the 4th, then the 7th. Just like in a game, the higher the level, the harder you have to work to earn the achievement.
@@ -33,7 +30,7 @@ The name tags have a grid of hexagons on each side that can be filled up with ac
 
 ### Do They Unlock Anything?
 
-Your potential? 
+Your potential?
 
 We're still developing our achievement badge program, so we're open to suggestions about what might be unlocked by earning them.
 
@@ -45,8 +42,6 @@ Check out our badge lists:
 - [Mentor Achievement Badges](./mentor_achievement_badges.md)
 - [Guardian Achievement Badges](./guardian_achievement_badges)
 - [Achievements for Everyone](./achievements_for_everyone_md)
-
-
 
 ## Cool, I wanna make a badge!
 
@@ -64,13 +59,13 @@ Please also note that someone has to design the badge, it must be approved, and 
 
 ### Can I Sponsor A New Badge?
 
-We currently print badges in runs of 1,000 stickers with allstickerprinting.com. The badge costs $29.99 and we have to pay the state approx $3 in use tax. 
+We currently print badges in runs of 1,000 stickers with allstickerprinting.com. The badge costs $29.99 and we have to pay the state approx $3 in use tax.
 
-You may donate $35 by PayPal ($33 + $2 for PayPal fees) directly to Seattle CoderDojo if you don't need a tax deduction. $39 by PayPal or $37 by check to Urban Sparks if you do need a tax deduction. 
+You may donate $35 by PayPal ($33 + $2 for PayPal fees) directly to Seattle CoderDojo if you don't need a tax deduction. $39 by PayPal or \$37 by check to Urban Sparks if you do need a tax deduction.
 
-We appreciate Urban Sparks support of our mission, but they have to do paperwork and oversight to accept tax-deductible donations on our behalf, so there is a processing fee we have to add for donations meant to cover specific costs. 
+We appreciate Urban Sparks support of our mission, but they have to do paperwork and oversight to accept tax-deductible donations on our behalf, so there is a processing fee we have to add for donations meant to cover specific costs.
 
-Please contact us for links or addresses for making the donation. 
+Please contact us for links or addresses for making the donation.
 
 ### Can I Design A Badge?
 
@@ -79,5 +74,4 @@ We welcome people who want to make badges. There are a few requirements.
 1. Use our template. We currently provide a [Photoshop format](../images/hextemplate.psd) template.
 2. Badges must be in print ready CMYK color. Please note that many design tools do not support CMYK output. If you are not experienced in creating 4-color print-ready artwork, please talk to a mentor about learning how. We will try to create a module for it soon.
 3. You need to sketch out the design and have it approved first.
-4. The badge needs to be for an *accepted* proposal. We are trying to decide where to list accepted proposals that need an artist. For now, connect with us at an event or by email for more information.
-
+4. The badge needs to be for an _accepted_ proposal. We are trying to decide where to list accepted proposals that need an artist. For now, connect with us at an event or by email for more information.
