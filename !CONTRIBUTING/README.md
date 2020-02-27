@@ -6,7 +6,7 @@ The DojoGuides define modules students can work on at a meetup of Seattle CoderD
 
 ## YOU CAN DO THIS!
 
-* **Your modules can be original, but do not have to be. **
+* **Your modules can be original, but do not have to be.**
 * **They may simply explain and add value to a tutorial on another site.**
 * **They may copy content from another site, but only if that content has an open source or Creative Commons license that allows copying/re-use.**
 
