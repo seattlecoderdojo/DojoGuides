@@ -1,23 +1,17 @@
-<img src="images/guideshero.png" title="Seattle CoderDojo Guides">
+<img src="../images/guideshero.png" title="Coding exercises for beginners">
 
-# Seattle CoderDojo Guides
+# For Beginners
 
-**WARNING:** We are just starting to build out our guide content, so there may be topics for which we do not have guides (or not many). Please be patient. Everyone making these is a volunteer. Check the Resources section below if you'd like to help make them.
+You don't need to know how to program. We help children learn the basics with fun tools and tutorials.
 
-## What are Guides?
+###[Code.Org](Code_Org/)
 
-Guides are modular exercises we have created, selected from online sources, or adapted from online sources that our visitors can complete in approximately 90 minutes. This provides a forward progress and the ability to earn achievement stickers for your nametag.
 
-## What's Here?
 
-### Resources
+### [Scratch](../GameDev/Scratch/) 
 
-* [Creating Modules](!CONTRIBUTING/)
-* [How do badges work?](!BADGES/)
+<a href="../GameDev/Scratch/"><img src="../images/scratch_header.png"></a> 
 
-## Guide Topics
+Scratch is fun way to program by dragging and dropping pieces and fitting them together. You can start with something simple like moving a character and build your way up to making really cool games.
 
-* [Game Development](GameDev/)
-  * [Creating Game Art](GameDev/GameArt/)
-  * [Unity Game Development](GameDev/Unity/)
-* 
+Check out the [huge selection of Scratch tutorials](Scratch/) and learn how to earn one (or all) of our Scratch achievement badges.

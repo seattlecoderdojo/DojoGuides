@@ -2,6 +2,8 @@
 
 # Unity 
 
+<a href="Unity/"><img src="../../images/unity_header.jpg"></a> 
+
 Unity Technologies' development platform is one of the premiere tools for creating 2D, 3D, and VR games.
 
 To complete Unity modules you must download and install Unity's core development platform on a Windows, Mac, or Linux computer.
