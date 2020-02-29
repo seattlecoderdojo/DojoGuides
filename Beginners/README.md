@@ -4,9 +4,10 @@
 
 You don't need to know how to program. We help children learn the basics with fun tools and tutorials.
 
-###[Code.Org](Code_Org/)
+### [Code.Org](Code_Org/)
+<a href="Code_Org/"><img src="../images/code_org_header.jpg"></a>
 
-
+Code.org created the Hour of Code, which helps teachers and community volunteers introduce millions of kids to Computer Science every year. Check out our recommendations of some of our favorite tutorials for kids anywhere from 5 to 12. 
 
 ### [Scratch](../GameDev/Scratch/) 
 
