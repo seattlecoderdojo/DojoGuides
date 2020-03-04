@@ -6,7 +6,7 @@ Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunt
 
 ## The Name Tags
 
-<img src="../images/seeker.png" height="300" align="left">Select your appropriate tag.
+<img src="../images/seeker.jpg" height="300" align="left">Select your appropriate tag.
 
 **CHILD:** Seeker (black)
 
