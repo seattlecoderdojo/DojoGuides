@@ -2,7 +2,7 @@
 
 # Badges: What's up With That?
 
-Starting in 2020, Seattle CoderDojo now provides every child, parent, and volunteer who attends an event with a 4x6 inch name tag, a clear holder, and a lanyard.
+Starting in 2023, Seattle CoderDojo now provides every child, parent, and volunteer who attends an event with a 4x6 inch name tag, a clear holder, and a lanyard.
 
 ## The Name Tags
 
